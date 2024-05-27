@@ -1,5 +1,4 @@
-##Hello, I'm Michelle Flores 👋
-About Me
+Hello 👋
 I am Michelle Flores, a passionate developer with over 10 years of experience in customer service. Currently, I am expanding my skills in programming with a focus on Java, HTML and CSS.
 
 📚 What I'm Working On
