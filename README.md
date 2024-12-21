@@ -1,4 +1,4 @@
-Hello 👋 I am Michelle Flores, a passionate developer with over 10 years of experience in customer service. 
+Hello 👋 I am Michelle Flores, Cybersecurity Analyst and a passionate developer with over 10 years of experience in customer service. 
 I am currently expanding my programming skills with a focus on Java, HTML and CSS.
 
 
