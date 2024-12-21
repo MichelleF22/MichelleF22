@@ -11,7 +11,7 @@ I am currently expanding my programming skills with a focus on Java, HTML and CS
 
 🔥 Skills Languages: Java, HTML, CSS. 
 
-✨ Other Skills: Excellent online research, proactive and autonomous work style, strong computer and program management skills. 
+✨ Other Skills: Cybersecurity Tools, excellent online research, proactive and autonomous work style, strong computer and program management skills. 
 
 
 💬 Get In Touch Email: 22michiflores@gmail.com LinkedIn: www.linkedin.com/in/andrea-michelle-flores-ayala-a99992306
