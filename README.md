@@ -1,22 +1,30 @@
-Hello 👋 I am Michelle Flores, Cybersecurity Analyst and a passionate developer with over 10 years of experience in customer service. 
-I am currently expanding my programming skills with a focus on Java, HTML and CSS.
+Michelle Flores – Cybersecurity Analyst & Java Developer
+Hello 👋! I’m Michelle Flores, a Cybersecurity Analyst and a Java Developer. Currently expanding my programming skills, with a focus on Java, HTML, and CSS. I also have a strong background in customer service with over 10 years of experience, bringing a unique approach to problem-solving and team collaboration.
 
+📚 What I’m Learning
+Deepening my knowledge in Full-Stack Development, with a particular focus on backend Java development.
 
-📚 What I'm working on Learning: Deepening my knowledge in full-stack development. 
+🖥️ Projects
+Developing web applications that solve real-world problems. Feel free to check out my repositories for projects in progress.
+Upcoming project: Building a secure web app with an emphasis on cybersecurity best practices.
 
-🖥️ Projects: Developing web applications that solve real-world problems. 
+🔎 Collaboration
+Open to contributing to open-source projects, collaborating on innovative ideas, and learning from others in the tech community.
 
-🔎 Collaboration: Open to working on exciting projects and innovative ideas.
+🔥 Skills
+Programming Languages: Java, HTML, CSS
+Cybersecurity: Tools (Wireshark, Nmap), Vulnerability Analysis, OSI Model, Network Security
+Soft Skills: Problem-solving, proactive work style, effective communication
+Technical Skills: Computer systems management, software development, research
 
+💬 Let’s Connect
+Email: 22michiflores@gmail.com
+LinkedIn: Andrea Michelle Flores Ayala
 
-🔥 Skills Languages: Java, HTML, CSS. 
+💭 Languages
+Native Spanish
+Basic English (Level C1, EF SET)
 
-✨ Other Skills: Cybersecurity Tools, excellent online research, proactive and autonomous work style, strong computer and program management skills. 
-
-
-💬 Get In Touch Email: 22michiflores@gmail.com LinkedIn: www.linkedin.com/in/andrea-michelle-flores-ayala-a99992306
-
-💭Languages: Native Spanish, Basic English
-
-
-🐉 Fun Facts I'm a tech enthusiast and love to keep up with the latest applications and programming. Besides coding, I enjoy playing video games, Dungeons and Dragons, and reading books.
+🐉 Fun Facts
+I’m a tech enthusiast, always keeping up with the latest programming trends and apps.
+When I’m not coding, you’ll find me playing video games, reading books, or enjoying a good session of Dungeons & Dragons.
